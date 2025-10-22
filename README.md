@@ -134,6 +134,22 @@ This dashboard was built as a **training project** to:
 
 ---
 
+
+---
+
+## 🖼️ Screenshots
+
+### 🕶️ Dark Mode Dashboard
+![Dark Mode Dashboard](1.png)
+
+### ☀️ Light Mode Dashboard
+![Light Mode Dashboard](2.png)
+
+### 👤 User Page
+![User Page](3.png)
+
+---
+
 ## 🧑‍💻 Author
 
 **Mohamed Elnaggar**  
@@ -148,3 +164,7 @@ Frontend Developer — React & Next.js
 ## 🪪 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+### ⭐ If you like this project, please give it a star!
