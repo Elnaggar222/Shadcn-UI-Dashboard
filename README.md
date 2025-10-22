@@ -148,7 +148,3 @@ Frontend Developer — React & Next.js
 ## 🪪 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-### ⭐ If you like this project, please give it a star!
