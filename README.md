@@ -131,15 +131,12 @@ This dashboard was built as a **training project** to:
 ## 📸 Preview
 
 ### 🕶️ Dark Mode Dashboard
-![Dark Mode Dashboard](1.png)
 <img width="1920" height="879" alt="1" src="https://github.com/user-attachments/assets/d4e22af3-1c21-4504-add6-c71e807a33fb" />
 
 ### ☀️ Light Mode Dashboard
-![Light Mode Dashboard](2.png)
 <img width="1920" height="879" alt="2" src="https://github.com/user-attachments/assets/a0ab85a5-234d-4737-bfde-8ac3437220c1" />
 
 ### 👤 User Page
-![User Page](3.png)
 <img width="1920" height="879" alt="3" src="https://github.com/user-attachments/assets/84f0599e-906c-4f40-a2cd-9b111f50e062" />
 
 ### 🧠 Data Table Page
