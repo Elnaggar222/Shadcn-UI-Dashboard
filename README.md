@@ -130,15 +130,6 @@ This dashboard was built as a **training project** to:
 
 ## 📸 Preview
 
-> Add screenshots or GIFs here if available (Dashboard, Charts, Data Table, etc.)
-
----
-
-
----
-
-## 🖼️ Screenshots
-
 ### 🕶️ Dark Mode Dashboard
 ![Dark Mode Dashboard](1.png)
 <img width="1920" height="879" alt="1" src="https://github.com/user-attachments/assets/d4e22af3-1c21-4504-add6-c71e807a33fb" />
@@ -151,7 +142,7 @@ This dashboard was built as a **training project** to:
 ![User Page](3.png)
 <img width="1920" height="879" alt="3" src="https://github.com/user-attachments/assets/84f0599e-906c-4f40-a2cd-9b111f50e062" />
 
-### 👤 Data Table Page
+### 🧠 Data Table Page
 <img width="1920" height="879" alt="4" src="https://github.com/user-attachments/assets/960e6ff2-5d67-49f4-95dc-9fb1a5689d99" />
 
 ---
